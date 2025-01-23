@@ -3,6 +3,8 @@ package Day19_OOPs;
 import java.util.Scanner;
 
 import static Day19_OOPs.Countdigit.cd;
+import static Day19_OOPs.FindOccurence.occurence;
+import static Day19_OOPs.StudentScore.score;
 
 public class Main {
     public static void main(String[] args) {
@@ -26,7 +28,14 @@ public class Main {
 //        int[] arr = findPair.getElement(n);
 //        int d = sc.nextInt();
 //        findPair.findPair(arr,d);
-        cd();
+//        cd();
+//        score();
+//        Scanner sc = new Scanner(System.in);
+//        double W = sc.nextDouble();
+//        double H  = sc.nextDouble();
+//        BMI bmi = new BMI(W,H);
+//        bmi.displayBMI();
 
+//        occurence();
     }
 }

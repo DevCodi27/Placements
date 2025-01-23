@@ -3,8 +3,8 @@ package Day14_Online_Class;
     public class Rotation {
         public static void rotation()
         {
-            int d = 4;
-            int[] arr = {1,2,3};
+            int d = 1;
+            int[] arr = {1,2,1,333,4,3,7};
             int temp = 0;
             for(int i = 0;i<d;i++)
             {
